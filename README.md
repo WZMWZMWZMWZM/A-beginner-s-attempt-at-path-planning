@@ -1,4 +1,4 @@
-# [你的项目名称] 代码仓库
+# [华鼎杯] 代码仓库
 
 > **重要提示：** 此代码库对应论文: "[基于雪豹大模型的无人机冷链末端配送路径优化方案研究]" (作者). 如果使用此代码，请引用我们的论文。
 
@@ -16,6 +16,6 @@
 
 ### 安装
 ```bash
-git clone https://github.com/[你的用户名]/[仓库名].git
-cd [仓库名]
+git clone https://github.com/[WZMWZMWZMWZM]/[A beginner's attempt at path planning].git
+cd [A beginner's attempt at path planning]
 pip install -r requirements.txt
